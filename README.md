@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinavestersager
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and this is first time using GitHub
 
 
 <!---
